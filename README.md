@@ -58,7 +58,3 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 [PCB](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_brd.pdf)
 
 ---------------------------------------
-
-[![Image](http://thingsoc.github.io/img/projects/thingSoC/thingSoC_thumb.png?raw=true)  
-*thingSoC*](http://thingsoc.github.io) 
- 
