@@ -2,18 +2,18 @@
 
 PatternAgents DRV2605L Haptic FeatherWing with integrated ADXL345 Accelerometer
 
-The **Agent-DRV2605-FeatherWing** allows you to connect [thingSoC](http://thingsoc.github.io/), [Mikrobus](http://www.mikroe.com/mikrobus/), 
+The **Agent-DRV2605-FeatherWing** allows you to connect [Adafruit Feather CPUs](https://www.adafruit.com/feather),  
 and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-to-grove-connectors-for-arduinoraspberry-pi-projects/) 
-Modules all at the same time, using the Arduino Development environment, with the the ATMEGA328P processor.
+Modules all at the same time, using the Arduino Integrated Development Environment.
 This gives you maximum flexiblity for sensor and actuator, selection and reuse. 
 
-The thingSoC "Grovey Series" was designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
-thingSoC boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout, as well as an I2C metadata store (EEPROM)
-to indicate what peripherals are installed.
+The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
+"Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout. 
+
 
 ---------------------------------------
 
-[![thingSoC GROVEY_ONE](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
+[![Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
 
 
 * [TI DRV2605L Haptic Driver](http://www.ti.com/lit/ds/symlink/drv2605l.pdf)
