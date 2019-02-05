@@ -13,7 +13,7 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ---------------------------------------
 
-[![Agent-DRV2605-FeatherWing](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
+[![Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
 
 
 * [TI DRV2605L Haptic Driver](http://www.ti.com/lit/ds/symlink/drv2605l.pdf)
@@ -32,7 +32,7 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 ---------------------------------------
 ## 3D Model (Sketchup)
 
-![thingSoC Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_iso.png)
+![thingSoC Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/thingSoC/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_iso.png)
 
 
 ---------------------------------------
@@ -48,11 +48,15 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ## Documentation Index <a name="documentation_index"/>
 
-[Quick Start Guide](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/QuickStart.md)
+[Quick Start Guide](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/QuickStart.md)
 
-[User Guide](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/UserGuide.md)
+[User Guide](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/UserGuide.md)
 
-[Theory of Operation](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/TheoryOfOperation.md)
+[Theory of Operation](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/TheoryOfOperation.md)
+
+[thingSoC Organization Website](http://thingSoC.github.io)
+
+[thingSoC FAQ - Frequently Asked Questions](http://thingsoc.github.io/support/faq.html)
 
 ---------------------------------------
 
