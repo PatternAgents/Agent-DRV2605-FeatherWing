@@ -31,8 +31,13 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 ---------------------------------------
 ![Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_prototop.png)
 ---------------------------------------
+## 3D Model (Sketchup)
+
+![Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_iso.png)
+
 [![Agent-DRV2605-FeatherWing Top](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_oshtop.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
 [![Agent-DRV2605-FeatherWing Bottom](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_oshbot.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
+
 ---------------------------------------
 ## Project Status
 
@@ -43,6 +48,7 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 * Configure PWM and INT pins for variety of Feather CPUs...
 
 ---------------------------------------
+
 ## Documentation Index <a name="documentation_index"/>
 
 [Assembly Diagram](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_assembly.pdf)
@@ -50,4 +56,5 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 [Schematics](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_sch.pdf)
 
 [PCB](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_brd.pdf)
+
 ---------------------------------------
