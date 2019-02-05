@@ -10,7 +10,6 @@ This gives you maximum flexiblity for sensor and actuator, selection and reuse.
 The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
 "Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout. 
 
-
 ---------------------------------------
 
 * [TI DRV2605L Haptic Driver](http://www.ti.com/lit/ds/symlink/drv2605l.pdf)
@@ -20,8 +19,6 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 * [Integrated Current Measurement Connector](https://www.adafruit.com/product/3650)
 * ERM or LRA Haptic Motors/Actuators supported
 * 3.3V Operation
-
-[![Agent-DRV2605-FeatherWing](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
 
 ---------------------------------------
 ## Example Applications
