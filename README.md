@@ -13,9 +13,6 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ---------------------------------------
 
-[![Agent-DRV2605-FeatherWing](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
-
-
 * [TI DRV2605L Haptic Driver](http://www.ti.com/lit/ds/symlink/drv2605l.pdf)
 * [ADI ADXL345 Accelerometer](https://www.analog.com/media/en/technical-documentation/data-sheets/adxl345.pdf)
 * [FeatherWing I2C Compatible Module](https://learn.adafruit.com/adafruit-feather/feather-specification)
@@ -23,6 +20,8 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 * [Integrated Current Measurement Connector](https://www.adafruit.com/product/3650)
 * ERM or LRA Haptic Motors/Actuators supported
 * 3.3V Operation
+
+[![Agent-DRV2605-FeatherWing](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_top.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
 
 ---------------------------------------
 ## Example Applications
