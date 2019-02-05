@@ -31,8 +31,10 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 ---------------------------------------
 ## 3D Model (Sketchup)
 
-![thingSoC Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_iso.png)
+![Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_iso.png)
 
+[![Agent-DRV2605-FeatherWing Top](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_oshtop.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
+[![Agent-DRV2605-FeatherWing Bottom](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_oshbot.png?raw=true)Agent-DRV2605-FeatherWing](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
 
 ---------------------------------------
 ## Project Status
@@ -41,7 +43,7 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ## Revision 1.0.0 Notes: ##
 
-* Move PWM and INT to better pins for variety of Feather CPUs...
+* Configure PWM and INT pins for variety of Feather CPUs...
 
 ---------------------------------------
 
