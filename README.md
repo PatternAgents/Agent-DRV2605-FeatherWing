@@ -20,11 +20,13 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 * [ERM Haptic Actuator support](https://www.precisionmicrodrives.com/vibration-motors/)
 * [LRA Haptic Actuator support](https://www.precisionmicrodrives.com/vibration-motors/)
 * [3.3V Operation](https://learn.adafruit.com/adafruit-feather/feather-specification)
+* [Mass/Sled Mounting Holes](https://www.precisionmicrodrives.com/content/ab-015-mechanical-mounting-for-vibration-motors-moulded-and-machined-enclosures/)
 
 ---------------------------------------
 ## Example Applications
 
-* [Haptic Controller](https://www.precisionmicrodrives.com/haptic-feedback/example-haptic-feedback-applications/) Example Haptic Feedback Applications
+* [Example Haptic Feedback Applications](https://www.precisionmicrodrives.com/haptic-feedback/example-haptic-feedback-applications/) 
+* [Handheld  Haptic Feedback Applications](https://www.precisionmicrodrives.com/wp-content/uploads/2016/01/haptic-feedback-vibration-alerting-for-handheld-products_0.pdf)
 
 ---------------------------------------
 ## 3D Model (Sketchup)
