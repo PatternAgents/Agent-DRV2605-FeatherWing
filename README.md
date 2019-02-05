@@ -17,8 +17,9 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 * [FeatherWing I2C Compatible Module](https://learn.adafruit.com/adafruit-feather/feather-specification)
 * [Grove I2C Compatible Module](http://wiki.seeedstudio.com/Grove_System/)
 * [Integrated Current Measurement Connector](https://www.adafruit.com/product/3650)
-* ERM or LRA Haptic Motors/Actuators supported
-* 3.3V Operation
+* [ERM Haptic Actuator support](https://www.precisionmicrodrives.com/vibration-motors/)
+* [LRA Haptic Actuator support](https://www.precisionmicrodrives.com/vibration-motors/)
+* [3.3V Operation](https://learn.adafruit.com/adafruit-feather/feather-specification)
 
 ---------------------------------------
 ## Example Applications
@@ -46,11 +47,11 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ## Documentation Index <a name="documentation_index"/>
 
-[Quick Start Guide](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/QuickStart.md)
+[Assembly Diagram](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_assembly.pdf)
 
-[User Guide](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/UserGuide.md)
+[Schematics](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_sch.pdf)
 
-[Theory of Operation](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/docs/TheoryOfOperation.md)
+[PCB](https://github.com/PatternAgents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/revisions/R1_0_0/Agent_DRV2605_FeatherWing_R1_0_0_brd.pdf)
 
 ---------------------------------------
 
