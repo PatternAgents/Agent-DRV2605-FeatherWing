@@ -32,6 +32,8 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ![Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_prototop.png)
 
+![Agent-DRV2605-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DRV2605-FeatherWing/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_prototop1.png)
+
 ---------------------------------------
 
 [![Agent-DRV2605-FeatherWing Top](https://github.com/patternagents/Agent-DRV2605-FeatherWing/blob/master/Agent-DRV2605-FeatherWing/images/Agent-DRV2605-FeatherWing_oshtop.png?raw=true)Agent-DRV2605-FeatherWing Top](https://github.com/thingSoC/Agent-DRV2605-FeatherWing/)
